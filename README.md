@@ -47,6 +47,8 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 <img width="1103" height="478" alt="image" src="https://github.com/user-attachments/assets/5ff90202-b4f0-4469-875e-1ab888ab7ba6" />
 
 ## Output Waveform
+![Uploading Screenshot 2025-11-20 095855.png…]()
+
 
 
 
