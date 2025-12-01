@@ -1,4 +1,4 @@
-# Aim:
+<img width="1728" height="777" alt="Screenshot 2025-11-20 095855" src="https://github.com/user-attachments/assets/4b18638b-fcaa-4d27-8680-6d44987ffcfc" /># Aim:
 To measure energy using Single Phase Energy Meter
 
 ## Procedure:
@@ -44,7 +44,10 @@ Enter the no. of times Green LED blinks in 1min(Meter Counter):
 
 ## Circuit Connection Diagram with Tabulation 
 
-![Uploading Screenshot 2025-11-20 095855.png…]()
+<img width="1113" height="385" alt="image" src="https://github.com/user-attachments/assets/69004b76-a308-4883-9fca-7b3ad40dce08" />
+
+![Uploading image.png…]()
+
 
 
 
